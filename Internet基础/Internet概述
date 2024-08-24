@@ -1,0 +1,31 @@
+ 1: Internet 的产生与发展
+ 1. Internet 中文称为ARPANET，它是由世界范围内各种大大小小的计算机网络相互连接而成的全球性网络。
+2. Internet 可视为一个庞大的、实用的可享受的的信息源。
+3. Internet 起源于美国国防部的ARPA网,它成为 Internet的主干网,采用TCP/IP协议。
+4. 美欧的EBONE、 Europenet先后接入 Internet,成为主干网。
+5. Internet 即因特网它的前身是1969年美国国防部的ARPANET
+6. ARPANET 最早采用了NCP协议，后来转向了TCPIP协议，该协议成为计算机网络互联的核心协议。
+7. 随着Internet的发展,欧美的EBONE、Europenet网相继成为 Internet的主干网。
+
+ 2: Internet 的特点
+1. Internet 的特点:开放的、透明的、自律的、自我管理、自我发展、采用C/S模式和交互的。
+ Internet 的特点
+1. 是开放的：采用的 TCP/IP 技术是开放的，且没有统一的管理机构。
+2. 是透明的：用户只关心结果而不是过程。
+3. 是一种自律的、自我管理和自我发展的网络。
+4. 采用客户机1服务器的工作模式。
+5. 是交互性：用户与 Internet 的信息是双向传递的。
+2. Internet的用户只关心结果而不是过程，这就是所谓的透明性
+3.  客户机1服务器工作模式是一个逻辑概念，是一种分布式计算模式。
+4. Internet 是一种交互式的信息传播媒体。
+
+ 3: Internet 在中国的发展
+1. 1994年10月,中国的CERNET  网开始启动，成为第一个接入Internet的骨干网络。
+2. 1996年1月,中国的CHINAET  建成,方便用户接入 Internet。
+3. 1997年,中国的CHINAET、CSTNET、CSTNET、CERNET、CHINAGBN  (英文)实现了四个互联网的互联互通。
+internet 在中国的发展   
+1. 中国的四大骨干网络：  NET
+中国公用计算机互联网：CHINANET
+中国金桥信息网  CHINAGBN
+中国教育和科研计算机网  ESTNET
+中国教育和科研计算机网： CERNET
